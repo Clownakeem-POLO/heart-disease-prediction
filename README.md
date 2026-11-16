@@ -1,5 +1,7 @@
 # Heart disease prediction on the UCI Cleveland dataset
 
+**Live demo:** https://clownakeem-heart-disease.streamlit.app
+
 Predicting whether a patient has heart disease from 13 routine clinical measurements. I
 treat this as a binary classification problem, but the framing I care about is clinical:
 a false negative is a sick patient sent home, which is worse than a false alarm. So the
